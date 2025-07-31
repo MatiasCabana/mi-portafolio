@@ -19,7 +19,7 @@ Este es mi portafolio personal como desarrollador fullstack. Muestra mis proyect
 
 ## Cómo ver el sitio
 
-Podés visitar el portafolio en: [https://TU-USUARIO.github.io/mi-portafolio](https://TU-USUARIO.github.io/mi-portafolio)
+Podés visitar el portafolio en: [https://matiascabana.github.io/mi-portafolio](https://matiascabana.github.io/mi-portafolio)
 
 ## Contacto
 
